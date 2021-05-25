@@ -1,0 +1,1 @@
+for i in {1..76};do cat pg2600.txt >> foo.txt; done
