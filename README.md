@@ -1,2 +1,2 @@
 # MapReduce-Py
-Map Reduce using Python mapper and reducer with shell script.
+Map Reduce workflow using Python mapper and reducer with shell script.
